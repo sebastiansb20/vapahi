@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sebastiansb20/vapahi/static/css/main.9edfc7db.css",
+    "main.js": "/sebastiansb20/vapahi/static/js/main.bd769a47.js",
+    "static/js/453.d1d44369.chunk.js": "/sebastiansb20/vapahi/static/js/453.d1d44369.chunk.js",
+    "static/media/logo.svg": "/sebastiansb20/vapahi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sebastiansb20/vapahi/index.html",
+    "main.9edfc7db.css.map": "/sebastiansb20/vapahi/static/css/main.9edfc7db.css.map",
+    "main.bd769a47.js.map": "/sebastiansb20/vapahi/static/js/main.bd769a47.js.map",
+    "453.d1d44369.chunk.js.map": "/sebastiansb20/vapahi/static/js/453.d1d44369.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9edfc7db.css",
+    "static/js/main.bd769a47.js"
+  ]
+}
