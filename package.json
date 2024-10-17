@@ -2,7 +2,7 @@
   "name": "galponpepe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sebastiansb20/vapahi",
+  "homepage": "https://sebastiansb20.github.io/vapahi",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
