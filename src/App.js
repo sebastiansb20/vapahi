@@ -15,9 +15,10 @@ function App() {
   
 
   return (  
-    <Router>
-      <Menu />
+    <Router basename='/vapahi'>
+      
       <Routes>
+      <Menu />
         <Route path="/" element={<Navigate to="/inicio" />} />
         <Route path="*" element={<Navigate to="/inicio" />} />
         <Route path='/inicio' element={<Inicio />} />
