@@ -16,9 +16,9 @@ function App() {
 
   return (  
     <Router>
-      
-      <Routes>
       <Menu />
+      <Routes>
+      
         <Route path="/" element={<Navigate to="/inicio" />} />
         <Route path="*" element={<Navigate to="/inicio" />} />
         <Route path='/inicio' element={<Inicio />} />
