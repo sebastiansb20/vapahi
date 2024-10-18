@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes, Navigate} from 'react-router-dom';
+import { HashRouter as Router, Route, Routes, Navigate} from 'react-router-dom';
 import Inicio from './pages/Inicio';
 import Articulos from './pages/Articulos'
 import ListaArticulos from './components/ListaArticulos';
