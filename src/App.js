@@ -15,7 +15,7 @@ function App() {
   
 
   return (  
-    <Router basename='/vapahi'>
+    <Router>
       
       <Routes>
       <Menu />
